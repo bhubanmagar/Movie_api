@@ -1,3 +1,8 @@
+allows you to add, edit, update, delete your movies...
+
+
+..................................................
+
 get all movies:
 method:  GET
 Link:   http://localhost:8000/movies
